@@ -1,0 +1,81 @@
+body{
+    background-image: linear-gradient(rgb(243, 179, 82),grey);
+    height: 1700px;
+}
+.texxt{
+    font-family: sans-serif;
+    position: relative
+}
+
+
+.bhedi{
+    font-family: sans-serif !important;
+    font-size:140px !important;
+}
+.texttt{
+ position: relative;
+ left: 55px;
+ color: rgb(219, 95, 37);
+font-weight:900 !important;
+background-color: white;
+width: 150px;
+position: relative;
+left: 50px;
+}
+
+.textt{
+    position: relative;
+    left: 50px;
+    color: rgb(219, 95, 37);
+    font-weight: 900 !important;
+}
+.thumbail{
+    background-color: white;
+    width: 200px;
+    position: relative;
+    
+}
+.card-title{
+    position: relative;
+    left: 150px;
+    text-align: center;
+}
+.rer{
+    font-family: cursive;
+}
+#id{
+position: relative;
+right: 150px;
+}
+.rerr{
+    font-family: cursive;
+    text-align: center;
+}
+#dond{
+    position: relative !important;
+    text-align: center;
+    display: block;
+}
+.gg{
+    width: 300px;
+}
+.mahmoud{
+    font-family: cursive;
+    text-align: center;
+    display: block;
+}
+.blockII{
+    width: 100%;
+
+}
+#bt{
+    margin: auto;
+}
+bII{
+    color: white;
+    font-family: cursive;
+}
+.ff{
+    position: relative;
+    left: 30px;
+}

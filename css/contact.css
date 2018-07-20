@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css?family=PT+Serif");
+body{
+    background-image: linear-gradient(rgb(235, 245, 104),grey);
+   min-height: 1000px;
+}
+.hhh{
+    width: 90px;
+    height: 40px;
+}
+.nom{
+    position: relative;
+    left: 20px;
+
+}
+.uu input{
+    position: relative;
+    left: 15px;
+}
+.nom{
+    font-family: Arial, Helvetica, sans-serif
+}
+.jumbotron{
+
+    background: url("https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-0.3.5&s=ab0d1d31a5f5f708c817279b9ea900df&auto=format&fit=crop&w=1500&q=80");       
+    position: absolute;
+    left: 20px;
+    width: 1300px;
+    
+}
+
+.text{
+    text-align: center;
+    font-size: 44px;
+    color: rgb(236, 177, 67) 
+
+}
+.container{
+    position: relative;
+    left: 300px;
+}
+.input-group{
+    position: relative;
+    right: 0px;
+    width: 600px;
+    height: 150px;  
+}
+#msg{
+    position:relative;
+    height: 150px;
+    width: 100% !important;
+}
+.col-md-5{
+    position: relative;
+    top: 150px;
+    width: 100px;
+    height: 50px;
+}
+.textt{
+color:rgb(73, 45, 151);
+font-family: 'Times New Roman', Times, serif;
+}
+.btn .btn-success{
+    width: 150px;
+    height: 50px;
+}
+.form-control{
+    width: 400px !important;
+}
+.u{
+    background-color: rgb(47, 126, 201)
+}
+.tout{
+    background-color: gray;
+}
+
