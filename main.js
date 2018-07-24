@@ -9,7 +9,7 @@
   };
   firebase.initializeApp(config);
 
-var mekla = firebase.database().ref("mekla");
+var mekla = firebase.database().ref("al-baraka");
 
 
 
